@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+
+
+# up添加
+
+# build
+# /bin /build 这两个目录上的东西不推送到github上去
+/bin
+/build
